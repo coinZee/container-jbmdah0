@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "coinZee",
+  "repo": "container-jbmdah0",
+  "name": "coinZee",
+  "email": "coinz1112@gmail.com",
+}
